@@ -33,7 +33,7 @@ WORKING:
 * **Electroluminescence:** As electrons pass through the semiconductor chip inside the **5mm LED**, they release energy as photons, making the bulb glow.  
 * **Built-in Safety:** The coin cell battery features high **internal resistance**. This naturally restricts the current, allowing the LED to light up safely without burning out, removing the need for a resistor.
 
-TINKERCAD SIMULATION:
+RESULT
 
 ![Result](result.jpeg)
 *The project was successfully completed and tested
